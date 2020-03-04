@@ -21,6 +21,7 @@ public class MultiplicationWork2{
 		}
 
 	}
+// 	New method
 	static int converter (int d, int b) {
 		return (d * b);
 
